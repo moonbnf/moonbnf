@@ -41,7 +41,7 @@ I am a Information Technology student passionate about building efficient softwa
 
 ## 🤝 Connect with Me
 
-* **LinkedIn:** [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/muhammad-nurfariz-12377b281/)
+* **LinkedIn:** (https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/muhammad-nurfariz-12377b281/)
 * **Email:** A218172@siswa.ukm.edu.my
 
 *"The best way to predict the future is to invent it."* 💻
